@@ -1,2 +1,2 @@
 # USElectionMA
-A Multi-Agent
+A Multi-Agent framework for US election.
